@@ -1,3 +1,6 @@
 import UIKit
 
-var greeting = "Hello, playground"
+let miEmoji = "😀"
+
+
+if let scalar = miEmoji.unicodeScalars.first { print("U+\(String(scalar.value, radix: 16).uppercased())") }
