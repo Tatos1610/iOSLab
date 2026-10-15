@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ejercicio2
+//  ListasEjercicio1
 //
-//  Created by Facultad Contaduría y Administración on 06/10/26.
+//  Created by Facultad Contaduría y Administración on 13/10/26.
 //
 
 import UIKit
